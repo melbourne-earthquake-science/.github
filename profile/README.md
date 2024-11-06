@@ -1,8 +1,6 @@
 ## Hi there, we are Melbourne Earthquake Science 👋
 
 
-## Who we are
-
 Website coming sooon
 
 ------------
